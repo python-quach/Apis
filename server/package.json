@@ -1,0 +1,22 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Express API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/python-quach/Apis.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Hung Quach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/python-quach/Apis/issues"
+  },
+  "homepage": "https://github.com/python-quach/Apis#readme"
+}
